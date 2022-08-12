@@ -1,0 +1,17 @@
+/* style.css */
+
+.odd-line {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.twenty-four {
+    font-size: 24px;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+#four {
+    background-color: green;
+    font-weight: bold;
+}
